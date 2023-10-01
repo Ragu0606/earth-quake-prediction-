@@ -1,9 +1,6 @@
 # AI_phase1
 
 
-REGISTER NUMBER : 814421243021
-
-
 NAME : RAGUNATH J
 
 
