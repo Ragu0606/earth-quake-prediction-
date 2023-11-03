@@ -7,7 +7,7 @@
 The Earthquake Prediction Project is a data science initiative focused on developing a predictive model for earthquake occurrences. Earthquakes can have devastating consequences, and having a reliable prediction model can significantly improve early warning systems and preparedness efforts. This project leverages data analysis and machine learning techniques to create a model that can forecast earthquakes.
 
 ## Dataset
-.*Dataset Link*:[Earthquake Database](https://www.kaggle.com/datasets/usgs/earthquake-database)
+*Dataset Link*:[Earthquake Database](https://www.kaggle.com/datasets/usgs/earthquake-database)
 
 ### Objectives
 
